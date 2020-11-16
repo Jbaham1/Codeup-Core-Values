@@ -13,7 +13,7 @@ main {
     grid-gap: 1em;
     grid-template-columns: 1fr;
 
-    background-color: navy;
+    background-color: DeepPink;
 }
 @media (min-width: 800px) {
     main { grid-template-columns: repeat(2, 1fr);
@@ -35,8 +35,8 @@ section {
     text-align: center;
     font-size: 2rem;
     font-family: Chalkboard;
-    background-color: darkgreen;
-    color: whitesmoke;
+    background-color: DeepSkyBlue;
+    color: WhiteSmoke;
 }
 .value {
 }
@@ -53,21 +53,21 @@ section {
     /*font-family: "Apple Chancery";*/
 }
 #codeupValues p {
-    color: darkseagreen;
+    color: bisque;
 }
 
 #BH {
-    background-color: darkolivegreen;
+    background-color: BlueViolet;
 }
 #BH h2 {
-    /*color: blueviolet;*/
+    color: burlywood;
 }
 #BH p {
 
 }
 
 #CIG {
-    background-color: darkgreen;
+    background-color: blue;
 }
 #CIG h2 {
 
@@ -87,7 +87,7 @@ section {
 }
 
 #AWI {
-    background-color: darkseagreen;
+    background-color: gold;
 }
 #AWI h2 {
 
